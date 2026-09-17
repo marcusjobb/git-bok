@@ -23,6 +23,7 @@ Med Git finns det alltid bara **en** version av varje fil. Historiken sparas i b
 
 | Sida | Innehåll |
 |------|---------|
+| Git ≠ GitHub | Vad Git är, vad GitHub är, och varför det spelar roll |
 | De tre områdena | Working Directory, Staging Area, Repository |
 | Vanliga kommandon | status, add, commit, push/pull, clone, init |
 | SSH-nyckel & .gitignore | Ansluta säkert, hålla skräp borta från historiken |

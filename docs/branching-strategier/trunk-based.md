@@ -54,22 +54,24 @@ flowchart TD
 ## Fördelar och nackdelar
 
 **Fördelar:**
+
 - Näst intill inga merge-konflikter — ändringarna är för små och integreras för ofta för att hinna divergera
 - Extremt snabb feedback-loop — kod är i produktion (om än bakom en flagga) inom timmar
 - Tvingar fram bra vanor: små commits, bra testtäckning, disciplinerad kodgranskning
 
 **Nackdelar:**
+
 - Kräver mogen CI/CD-kultur och hög testtäckning — utan det blir `main` instabilt
 - Feature flags är extra komplexitet att hantera och städa bort när funktionen är klar och stabil
 - Svårt att införa i ett team som inte redan har vana vid täta, disciplinerade commits
 
 ## Jämförelse — alla tre strategierna
 
-| | Git Flow | GitHub Flow | Trunk-based |
-|---|---|---|---|
-| Antal branch-typer | 5 (main, develop, feature, release, hotfix) | 2 (main, feature) | I princip 1 (main/trunk) |
-| Branch-livslängd | Dagar till veckor | Timmar till dagar | Timmar, eller inga alls |
-| Kräver feature flags | Nej | Sällan | Ofta |
-| Passar | Schemalagda releaser, flera supporterade versioner | Kontinuerlig deploy till en miljö | Mycket täta deploys, mogen CI/CD-kultur |
+|                      | Git Flow                                           | GitHub Flow                       | Trunk-based                             |
+| -------------------- | -------------------------------------------------- | --------------------------------- | --------------------------------------- |
+| Antal branch-typer   | 5 (main, develop, feature, release, hotfix)        | 2 (main, feature)                 | I princip 1 (main/trunk)                |
+| Branch-livslängd     | Dagar till veckor                                  | Timmar till dagar                 | Timmar, eller inga alls                 |
+| Kräver feature flags | Nej                                                | Sällan                            | Ofta                                    |
+| Passar               | Schemalagda releaser, flera supporterade versioner | Kontinuerlig deploy till en miljö | Mycket täta deploys, mogen CI/CD-kultur |
 
 Ingen av de tre är "bäst" i något absolut mening — valet beror på hur ofta ni faktiskt levererar, hur bra er testtäckning är, och hur många versioner ni behöver hålla igång parallellt.
