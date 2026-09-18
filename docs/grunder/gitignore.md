@@ -78,6 +78,16 @@ secrets.json
 
 ---
 
+## Officiella mallar
+
+Microsoft underhåller en officiell `.gitignore` för Visual Studio / .NET som del av GitHubs mall-repo:
+
+👉 [github/gitignore — VisualStudio.gitignore](https://github.com/github/gitignore/blob/main/VisualStudio.gitignore)
+
+Det är den som gitignore.io också använder som källa — så de ger samma resultat.
+
+---
+
 ## Generera en .gitignore automatiskt
 
 Istället för att skriva den för hand — använd [gitignore.io](http://gitignore.io/).
