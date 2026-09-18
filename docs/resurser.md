@@ -15,6 +15,12 @@ Bra ställen att fortsätta lära sig, ladda ner verktyg och hitta plattformar a
 | [Learn Git Branching](https://learngitbranching.js.org/) | Interaktiv övning — visualiserar branches och commits i realtid medan du kör kommandon. Det bästa sättet att faktiskt förstå rebase och merge. |
 | [GitHub Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet/) | Githubs officiella snabbreferens — en sida med de vanligaste kommandona. Bra att ha uppe i ett fönster. |
 
+## Verktyg
+
+| Verktyg | Vad det är |
+|---------|-----------|
+| [gitignore.io](http://gitignore.io/) | Generera en `.gitignore`-fil för ditt projekt — välj språk, ramverk och IDE så får du en färdig fil. |
+
 ## Ladda ner Git
 
 | Plattform | Länk |
