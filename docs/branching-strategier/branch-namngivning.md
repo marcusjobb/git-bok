@@ -1,5 +1,6 @@
 ---
 title: Branch-namngivning
+description: "Branch-namngivning i Branching-strategier — Git-boken av Marcus Ackre Medina"
 parent: Branching-strategier
 nav_order: 5
 ---

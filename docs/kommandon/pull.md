@@ -1,5 +1,6 @@
 ---
 title: git pull
+description: "git pull i Kommandon — Git-boken av Marcus Ackre Medina"
 parent: Kommandon
 nav_order: 95
 ---

@@ -1,5 +1,6 @@
 ---
 title: Licens
+description: "Licens — Git-boken av Marcus Ackre Medina"
 nav_order: 999
 ---
 # Licens

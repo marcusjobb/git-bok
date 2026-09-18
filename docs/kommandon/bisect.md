@@ -1,5 +1,6 @@
 ---
 title: git bisect
+description: "git bisect i Kommandon — Git-boken av Marcus Ackre Medina"
 parent: Kommandon
 nav_order: 170
 ---

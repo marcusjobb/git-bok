@@ -1,5 +1,6 @@
 ---
 title: Markdown & README
+description: "Markdown & README — Git-boken av Marcus Ackre Medina"
 nav_order: 40
 has_children: true
 ---

@@ -1,5 +1,6 @@
 ---
 title: README och Pull Request
+description: "README och Pull Request i Markdown & README — Git-boken av Marcus Ackre Medina"
 parent: Markdown & README
 nav_order: 20
 ---

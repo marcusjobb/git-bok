@@ -1,5 +1,6 @@
 ---
 title: git cherry-pick
+description: "git cherry-pick i Kommandon — Git-boken av Marcus Ackre Medina"
 parent: Kommandon
 nav_order: 145
 ---

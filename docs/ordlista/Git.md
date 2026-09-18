@@ -1,5 +1,6 @@
 ---
 title: Git
+description: "Git i Ordlista — Git-boken av Marcus Ackre Medina"
 layout: default
 parent: Ordlista
 nav_order: 10

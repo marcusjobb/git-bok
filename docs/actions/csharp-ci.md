@@ -1,5 +1,6 @@
 ---
 title: Kompilera och testa C#
+description: "Kompilera och testa C# i GitHub Actions — Git-boken av Marcus Ackre Medina"
 parent: GitHub Actions
 nav_order: 30
 ---

@@ -1,5 +1,6 @@
 ---
 title: Vem ändrade vad och när
+description: "Vem ändrade vad och när i Scenarios — Git-boken av Marcus Ackre Medina"
 parent: Scenarios
 nav_order: 60
 ---

@@ -1,5 +1,6 @@
 ---
 title: git stash
+description: "git stash i Kommandon — Git-boken av Marcus Ackre Medina"
 parent: Kommandon
 nav_order: 110
 ---

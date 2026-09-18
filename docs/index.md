@@ -1,5 +1,6 @@
 ---
 title: Git
+description: "Git — Git-boken av Marcus Ackre Medina"
 layout: home
 nav_order: 1
 has_children: true

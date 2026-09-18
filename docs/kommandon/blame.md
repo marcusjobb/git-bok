@@ -1,5 +1,6 @@
 ---
 title: git blame
+description: "git blame i Kommandon — Git-boken av Marcus Ackre Medina"
 parent: Kommandon
 nav_order: 160
 ---

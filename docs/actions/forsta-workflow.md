@@ -1,5 +1,6 @@
 ---
 title: Första workflow
+description: "Första workflow i GitHub Actions — Git-boken av Marcus Ackre Medina"
 parent: GitHub Actions
 nav_order: 20
 ---

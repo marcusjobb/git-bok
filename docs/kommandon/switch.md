@@ -1,5 +1,6 @@
 ---
 title: git switch
+description: "git switch i Kommandon — Git-boken av Marcus Ackre Medina"
 parent: Kommandon
 nav_order: 50
 ---

@@ -1,5 +1,6 @@
 ---
 title: git diff
+description: "git diff i Kommandon — Git-boken av Marcus Ackre Medina"
 parent: Kommandon
 nav_order: 70
 ---

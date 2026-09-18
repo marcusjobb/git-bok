@@ -1,5 +1,6 @@
 ---
 title: git log
+description: "git log i Kommandon — Git-boken av Marcus Ackre Medina"
 parent: Kommandon
 nav_order: 60
 ---

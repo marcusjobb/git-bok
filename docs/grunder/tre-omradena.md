@@ -1,5 +1,6 @@
 ---
 title: De tre områdena
+description: "De tre områdena i Grunder — Git-boken av Marcus Ackre Medina"
 parent: Grunder
 nav_order: 10
 ---

@@ -1,5 +1,6 @@
 ---
 title: Rebase gick fel
+description: "Rebase gick fel i Scenarios — Git-boken av Marcus Ackre Medina"
 parent: Scenarios
 nav_order: 50
 ---

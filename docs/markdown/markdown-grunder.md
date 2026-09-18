@@ -1,5 +1,6 @@
 ---
 title: Markdown-grunder
+description: "Markdown-grunder i Markdown & README — Git-boken av Marcus Ackre Medina"
 parent: Markdown & README
 nav_order: 10
 ---

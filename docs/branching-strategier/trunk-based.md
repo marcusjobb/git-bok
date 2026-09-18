@@ -1,5 +1,6 @@
 ---
 title: Trunk-based development
+description: "Trunk-based development i Branching-strategier — Git-boken av Marcus Ackre Medina"
 parent: Branching-strategier
 nav_order: 30
 ---

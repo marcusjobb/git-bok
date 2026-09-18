@@ -1,5 +1,6 @@
 ---
 title: git push
+description: "git push i Kommandon — Git-boken av Marcus Ackre Medina"
 parent: Kommandon
 nav_order: 100
 ---

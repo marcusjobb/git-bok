@@ -1,5 +1,6 @@
 ---
 title: Scenarios
+description: "Scenarios — Git-boken av Marcus Ackre Medina"
 nav_order: 40
 has_children: true
 ---

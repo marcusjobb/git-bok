@@ -1,5 +1,6 @@
 ---
 title: Lösa en merge-konflikt
+description: "Lösa en merge-konflikt i Scenarios — Git-boken av Marcus Ackre Medina"
 parent: Scenarios
 nav_order: 40
 ---

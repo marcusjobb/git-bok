@@ -1,5 +1,6 @@
 ---
 title: Git ≠ GitHub
+description: "Git ≠ GitHub i Grunder — Git-boken av Marcus Ackre Medina"
 parent: Grunder
 nav_order: 5
 ---

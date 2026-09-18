@@ -1,0 +1,80 @@
+# Git — öppen lärobok av Marcus Ackre Medina
+
+> En praktisk guide till Git för programmeringsstuderande på YH-nivå.
+> Skriven på svenska. Fokus på det du faktiskt behöver på jobbet.
+
+## Om boken
+
+Denna bok täcker Git från grunderna till avancerade scenarios och GitHub Actions CI/CD.
+Målgrupp: programmeringsstuderande och juniora utvecklare som vill förstå Git på riktigt.
+Licens: CC BY 4.0 — fri att använda och dela.
+Källa: https://github.com/marcusjobb/git-bok
+Publicerad: https://marcusjobb.github.io/git-bok/
+
+## Avsnitt
+
+### Grunder
+- /git-bok/grunder/ — Vad är Git, installera, konfigurera
+- /git-bok/grunder/vad-ar-git/ — Historik, snapshots, distribuerat
+- /git-bok/grunder/installera/ — Git för Windows, Mac, Linux
+- /git-bok/grunder/konfigurera/ — Namn, e-post, editor, alias
+- /git-bok/grunder/forsta-repo/ — git init, git add, git commit
+
+### Kommandon
+En sida per kommando med orienteringsdiagram, syntax och konkreta exempel.
+- /git-bok/kommandon/ — Kommandoöversikt
+- /git-bok/kommandon/add/ — git add: förbered filer för commit
+- /git-bok/kommandon/blame/ — git blame: se vem som ändrade vilken rad
+- /git-bok/kommandon/bisect/ — git bisect: hitta vilken commit som introducerade en bugg
+- /git-bok/kommandon/branch/ — git branch: skapa, lista och ta bort branches
+- /git-bok/kommandon/cherry-pick/ — git cherry-pick: plocka in en specifik commit
+- /git-bok/kommandon/clone/ — git clone: kopiera ett repo
+- /git-bok/kommandon/commit/ — git commit: spara en ögonblicksbild
+- /git-bok/kommandon/diff/ — git diff: visa exakt vad som ändrats
+- /git-bok/kommandon/fetch/ — git fetch: hämta utan att mergea
+- /git-bok/kommandon/log/ — git log: bläddra i historiken
+- /git-bok/kommandon/merge/ — git merge: slå ihop branches
+- /git-bok/kommandon/pull/ — git pull: hämta och mergea
+- /git-bok/kommandon/push/ — git push: skicka commits till remote
+- /git-bok/kommandon/rebase/ — git rebase: flytta en branch till ny startpunkt
+- /git-bok/kommandon/reflog/ — git reflog: sista räddningsplankan
+- /git-bok/kommandon/remote/ — git remote: hantera fjärrrepon
+- /git-bok/kommandon/reset/ — git reset: ångra commits
+- /git-bok/kommandon/revert/ — git revert: ångra med ny commit
+- /git-bok/kommandon/stash/ — git stash: spara undan halvfärdig kod
+- /git-bok/kommandon/status/ — git status: kolla läget
+- /git-bok/kommandon/switch/ — git switch: byt branch
+- /git-bok/kommandon/tag/ — git tag: markera en commit
+
+### Branching-strategier
+- /git-bok/branching-strategier/ — Namngivning, PR-guide, merge-strategier, GitFlow
+
+### Konflikter
+- /git-bok/konflikter/ — Förstå och lösa merge-konflikter
+
+### Scenarios
+Konkreta situationer i stigande svårighetsgrad.
+- /git-bok/scenarios/ — Scenarios-översikt
+- /git-bok/scenarios/fel-branch/ — Committade på fel branch
+- /git-bok/scenarios/angra-push/ — Ångra en push
+- /git-bok/scenarios/commitat-secrets/ — Råkade commita secrets/lösenord
+- /git-bok/scenarios/merge-konflikt/ — Lösa en merge-konflikt
+- /git-bok/scenarios/rebase-fel/ — Rebase gick fel
+- /git-bok/scenarios/vem-andrade/ — Vem ändrade vad och när (blame + bisect)
+- /git-bok/scenarios/aterställa-kod/ — Återställa förlorad kod med reflog
+
+### GitHub Actions
+- /git-bok/actions/ — Actions-översikt
+- /git-bok/actions/vad-ar-actions/ — Grundidén, triggers, jobs och steps
+- /git-bok/actions/forsta-workflow/ — En minimal workflow
+- /git-bok/actions/csharp-ci/ — CI-pipeline för .NET-projekt
+
+### Övrigt
+- /git-bok/ordlista/ — Ordlista
+- /git-bok/resurser/ — Vidare läsning och verktyg
+- /git-bok/licens/ — Licens (CC BY 4.0)
+
+## Författare
+
+Marcus Ackre Medina — lärare i mjukvaruutveckling, NionIT / YRGO
+Kontakt: marcus.medina@nionit.com

@@ -1,5 +1,6 @@
 ---
 title: git merge
+description: "git merge i Kommandon — Git-boken av Marcus Ackre Medina"
 parent: Kommandon
 nav_order: 120
 ---

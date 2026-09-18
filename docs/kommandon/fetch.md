@@ -1,5 +1,6 @@
 ---
 title: git fetch
+description: "git fetch i Kommandon — Git-boken av Marcus Ackre Medina"
 parent: Kommandon
 nav_order: 90
 ---

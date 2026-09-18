@@ -1,5 +1,6 @@
 ---
 title: Git Flow
+description: "Git Flow i Branching-strategier — Git-boken av Marcus Ackre Medina"
 parent: Branching-strategier
 nav_order: 10
 ---

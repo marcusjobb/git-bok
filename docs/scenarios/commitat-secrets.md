@@ -1,5 +1,6 @@
 ---
 title: Råkade commita secrets
+description: "Råkade commita secrets i Scenarios — Git-boken av Marcus Ackre Medina"
 parent: Scenarios
 nav_order: 30
 ---

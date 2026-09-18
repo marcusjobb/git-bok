@@ -1,5 +1,6 @@
 ---
 title: Branching-strategier
+description: "Branching-strategier — Git-boken av Marcus Ackre Medina"
 nav_order: 30
 has_children: true
 ---

@@ -1,5 +1,6 @@
 ---
 title: Återställa förlorad kod
+description: "Återställa förlorad kod i Scenarios — Git-boken av Marcus Ackre Medina"
 parent: Scenarios
 nav_order: 70
 ---

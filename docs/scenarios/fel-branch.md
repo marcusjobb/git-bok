@@ -1,5 +1,6 @@
 ---
 title: Committade på fel branch
+description: "Committade på fel branch i Scenarios — Git-boken av Marcus Ackre Medina"
 parent: Scenarios
 nav_order: 10
 ---

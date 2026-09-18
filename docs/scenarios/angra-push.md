@@ -1,5 +1,6 @@
 ---
 title: Ångra en push
+description: "Ångra en push i Scenarios — Git-boken av Marcus Ackre Medina"
 parent: Scenarios
 nav_order: 20
 ---

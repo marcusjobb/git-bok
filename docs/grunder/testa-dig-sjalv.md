@@ -1,5 +1,6 @@
 ---
 title: Testa dig själv
+description: "Testa dig själv i Grunder — Git-boken av Marcus Ackre Medina"
 parent: Grunder
 nav_order: 99
 ---

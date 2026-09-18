@@ -1,5 +1,6 @@
 ---
 title: Vad är Actions?
+description: "Vad är Actions? i GitHub Actions — Git-boken av Marcus Ackre Medina"
 parent: GitHub Actions
 nav_order: 10
 ---

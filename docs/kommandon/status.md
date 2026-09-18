@@ -1,5 +1,6 @@
 ---
 title: git status
+description: "git status i Kommandon — Git-boken av Marcus Ackre Medina"
 parent: Kommandon
 nav_order: 10
 ---

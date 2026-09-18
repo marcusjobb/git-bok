@@ -1,5 +1,6 @@
 ---
 title: Vanliga kommandon
+description: "Vanliga kommandon i Grunder — Git-boken av Marcus Ackre Medina"
 parent: Grunder
 nav_order: 20
 ---

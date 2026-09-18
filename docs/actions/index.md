@@ -1,5 +1,6 @@
 ---
 title: GitHub Actions
+description: "GitHub Actions — Git-boken av Marcus Ackre Medina"
 nav_order: 50
 has_children: true
 ---

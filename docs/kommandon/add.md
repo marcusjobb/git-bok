@@ -1,5 +1,6 @@
 ---
 title: git add
+description: "git add i Kommandon — Git-boken av Marcus Ackre Medina"
 parent: Kommandon
 nav_order: 20
 ---

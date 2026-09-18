@@ -1,5 +1,6 @@
 ---
 title: Merge-konflikt
+description: "Merge-konflikt i Konflikter — Git-boken av Marcus Ackre Medina"
 parent: Konflikter
 nav_order: 10
 ---

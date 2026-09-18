@@ -1,5 +1,6 @@
 ---
 title: Testa dig själv
+description: "Testa dig själv i Markdown & README — Git-boken av Marcus Ackre Medina"
 parent: Markdown & README
 nav_order: 99
 ---

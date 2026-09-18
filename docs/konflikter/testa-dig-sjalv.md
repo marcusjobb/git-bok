@@ -1,5 +1,6 @@
 ---
 title: Testa dig själv
+description: "Testa dig själv i Konflikter — Git-boken av Marcus Ackre Medina"
 parent: Konflikter
 nav_order: 99
 ---

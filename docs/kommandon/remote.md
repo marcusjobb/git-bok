@@ -1,5 +1,6 @@
 ---
 title: git remote
+description: "git remote i Kommandon — Git-boken av Marcus Ackre Medina"
 parent: Kommandon
 nav_order: 85
 ---
