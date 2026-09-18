@@ -8,9 +8,10 @@ has_children: true
 
 # Git av Marcus A.M.
 
-En praktisk genomgång av Git — från de tre grundläggande områdena till branching-strategier riktiga team använder. Mycket diagram, lite text i taget.
+{: .important }
+**Det här är inte en kurs.** Det är ett uppslagsverk. Du förväntas inte läsa det från början till slut — du använder det när du kör fast, när du glömt hur ett kommando fungerar, eller när du undrar vad som egentligen händer under huven.
 
-Skriven för studerande på Yrkeshögskola men användbar för alla som vill förstå Git på riktigt, inte bara kommandona utantill.
+Hitta det du söker, förstå det, gå tillbaka till koden.
 
 ---
 
@@ -18,10 +19,13 @@ Skriven för studerande på Yrkeshögskola men användbar för alla som vill fö
 
 | Avsnitt | Innehåll |
 |---------|---------|
-| Grunder | De tre områdena, vanliga kommandon, SSH-nyckel |
-| Konflikter | Merge-konflikter, konfliktmarkeringar, hur man löser dem |
-| Branching-strategier | Git Flow, GitHub Flow, Trunk-based development |
-| Markdown & README | Hur Git och Markdown hänger ihop i praktiken |
-| Ordlista | Alla termer samlade för snabbslagning |
+| [Grunder](grunder/) | De tre områdena, vanliga kommandon, SSH-nyckel |
+| [Kommandon](kommandon/) | En sida per kommando — syntax, flaggor, exempel |
+| [Konflikter](konflikter/) | Merge-konflikter, konfliktmarkeringar, hur man löser dem |
+| [Branching-strategier](branching-strategier/) | Git Flow, GitHub Flow, Trunk-based development |
+| [Scenarios](scenarios/) | Konkreta problem och hur du löser dem |
+| [GitHub Actions](actions/) | CI/CD — automatisera bygg och tester |
+| [Markdown](markdown/) | Hur Git och Markdown hänger ihop i praktiken |
+| [Ordlista](ordlista/) | Alla termer samlade för snabbslagning |
 
-Navigera med menyn till vänster — avsnitten är ordnade i inlärningsordning.
+Använd sökfunktionen (överst till höger) eller menyn till vänster.
