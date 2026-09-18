@@ -29,3 +29,13 @@ Hitta det du söker, förstå det, gå tillbaka till koden.
 | [Ordlista](ordlista/) | Alla termer samlade för snabbslagning |
 
 Använd sökfunktionen (överst till höger) eller menyn till vänster.
+
+---
+
+## Om boken
+
+Boken skapades för att ge studerande ett ställe att gå tillbaka till — när något från lektionen inte satt, när man glömt hur ett kommando fungerar, eller när man kör fast i en branch-katastrof klockan 14:47.
+
+Den uppdateras löpande. Hittar du ett fel, saknar en förklaring, eller har ett bättre scenario? Hör av dig — på Discord, via skolans mail, eller öppna ett issue direkt på [GitHub](https://github.com/marcusjobb/git-bok).
+
+/Marcus
