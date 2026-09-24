@@ -1,6 +1,6 @@
 ---
 title: Vanliga kommandon
-description: "Vanliga kommandon i Grunder — Git-boken av Marcus Ackre Medina"
+description: "Det kommandot du ska köra innan du gör något annat. Det visar exakt vad som ändrats sedan senaste commit."
 parent: Grunder
 nav_order: 20
 ---

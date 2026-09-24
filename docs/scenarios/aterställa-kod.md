@@ -1,6 +1,6 @@
 ---
 title: Återställa förlorad kod
-description: "Återställa förlorad kod i Scenarios — Git-boken av Marcus Ackre Medina"
+description: "Du körde git reset --hard. Eller rebaser gick fel. Eller du tappade en branch. Koden verkar borta."
 parent: Scenarios
 nav_order: 70
 ---

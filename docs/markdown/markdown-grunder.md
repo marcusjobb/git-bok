@@ -1,6 +1,6 @@
 ---
 title: Markdown-grunder
-description: "Markdown-grunder i Markdown & README — Git-boken av Marcus Ackre Medina"
+description: "Markdown är ett lättviktigt märkspråk för att formatera text med vanliga tecken. En # gör en rubrik, text gör text fet, ` kod ` gör kod-formatering…"
 parent: Markdown & README
 nav_order: 10
 ---

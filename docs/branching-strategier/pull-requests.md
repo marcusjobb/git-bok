@@ -1,6 +1,6 @@
 ---
 title: Pull Requests
-description: "Pull Requests i Branching-strategier — Git-boken av Marcus Ackre Medina"
+description: "En Pull Request (PR) är inte bara ett tekniskt steg för att mergea kod. Det är en konversation — en chans att fånga buggar, dela kunskap, och se till att…"
 parent: Branching-strategier
 nav_order: 40
 ---

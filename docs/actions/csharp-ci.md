@@ -1,6 +1,6 @@
 ---
 title: Kompilera och testa C#
-description: "Kompilera och testa C# i GitHub Actions — Git-boken av Marcus Ackre Medina"
+description: "En komplett CI-pipeline för ett .NET-projekt — kompilerar och kör tester vid varje push och PR."
 parent: GitHub Actions
 nav_order: 30
 ---

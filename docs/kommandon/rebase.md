@@ -1,6 +1,6 @@
 ---
 title: git rebase
-description: "git rebase i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Flytta din branch till en ny startpunkt genom att spela av dina commits ovanpå en annan branch."
 parent: Kommandon
 nav_order: 125
 ---

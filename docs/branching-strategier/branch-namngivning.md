@@ -1,6 +1,6 @@
 ---
 title: Branch-namngivning
-description: "Branch-namngivning i Branching-strategier — Git-boken av Marcus Ackre Medina"
+description: "En branch är ett löfte till teamet: \"det här jobbar jag på just nu.\" Bra namn håller det löftet. Dåliga namn är ett slag i luften."
 parent: Branching-strategier
 nav_order: 5
 ---

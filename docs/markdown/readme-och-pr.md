@@ -1,6 +1,6 @@
 ---
 title: README och Pull Request
-description: "README och Pull Request i Markdown & README — Git-boken av Marcus Ackre Medina"
+description: "README är projektets välkomstsida — den fil GitHub visar automatiskt när någon besöker ett repo. Varje projekt ska ha en."
 parent: Markdown & README
 nav_order: 20
 ---

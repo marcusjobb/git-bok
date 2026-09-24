@@ -1,6 +1,6 @@
 ---
 title: .gitignore
-description: ".gitignore i Grunder — Git-boken av Marcus Ackre Medina"
+description: "Git trackar allt — om du inte säger åt det att sluta."
 parent: Grunder
 nav_order: 30
 ---

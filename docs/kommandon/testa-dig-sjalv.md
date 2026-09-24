@@ -1,6 +1,6 @@
 ---
 title: Testa dig själv
-description: "Testa dig själv i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Inga facit på nästa sida. Det är meningen."
 parent: Kommandon
 nav_order: 999
 ---

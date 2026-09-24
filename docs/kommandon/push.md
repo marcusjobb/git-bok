@@ -1,6 +1,6 @@
 ---
 title: git push
-description: "git push i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Skicka dina lokala commits till remote. Fungerar om du redan har en tracking branch satt."
 parent: Kommandon
 nav_order: 100
 ---

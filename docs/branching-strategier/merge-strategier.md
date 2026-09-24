@@ -1,6 +1,6 @@
 ---
 title: Merge-strategier
-description: "Merge-strategier i Branching-strategier — Git-boken av Marcus Ackre Medina"
+description: "Du har jobbat i tre dagar på en feature branch. Den är klar, testad, godkänd i PR:en. Nu ska den in i main."
 parent: Branching-strategier
 nav_order: 45
 ---

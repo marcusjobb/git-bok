@@ -1,6 +1,6 @@
 ---
 title: Git
-description: "Git — Git-boken av Marcus Ackre Medina"
+description: "Det här är inte en kurs. Det är ett uppslagsverk. Du förväntas inte läsa det från början till slut — du använder det när du kör fast, när du glömt hur ett…"
 layout: home
 nav_order: 1
 has_children: true

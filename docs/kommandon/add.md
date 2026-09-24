@@ -1,6 +1,6 @@
 ---
 title: git add
-description: "git add i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Flytta ändringar från working directory till staging area. Du bestämmer exakt vad som ska ingå i nästa commit."
 parent: Kommandon
 nav_order: 20
 ---

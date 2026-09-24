@@ -1,6 +1,6 @@
 ---
 title: Vad är Actions?
-description: "Vad är Actions? i GitHub Actions — Git-boken av Marcus Ackre Medina"
+description: "GitHub Actions är ett automatiseringssystem inbyggt direkt i GitHub. Du beskriver i en YAML-fil vad som ska hända och när — GitHub sköter resten på sina…"
 parent: GitHub Actions
 nav_order: 10
 ---

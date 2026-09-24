@@ -1,6 +1,6 @@
 ---
 title: Lösa en merge-konflikt
-description: "Lösa en merge-konflikt i Scenarios — Git-boken av Marcus Ackre Medina"
+description: "Git klarar de flesta mergar automatiskt. Men när samma rad ändrats på två ställen kan den inte gissa vilket som är rätt — det är upp till dig."
 parent: Scenarios
 nav_order: 40
 ---

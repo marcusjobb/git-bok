@@ -1,6 +1,6 @@
 ---
 title: git branch
-description: "git branch i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Hantera branches — lista, skapa och ta bort."
 parent: Kommandon
 nav_order: 40
 ---

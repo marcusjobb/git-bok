@@ -1,6 +1,6 @@
 ---
 title: Markdown & README
-description: "Markdown & README — Git-boken av Marcus Ackre Medina"
+description: "Git och Markdown är varandras naturliga följeslagare i professionell mjukvaruutveckling. Git håller koll på vad du ändrat och när — Markdown gör det du…"
 nav_order: 40
 has_children: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: git switch
-description: "git switch i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Byt branch. Det moderna alternativet till git checkout för just det syftet."
 parent: Kommandon
 nav_order: 50
 ---

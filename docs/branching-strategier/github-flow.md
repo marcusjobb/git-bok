@@ -1,6 +1,6 @@
 ---
 title: GitHub Flow
-description: "GitHub Flow i Branching-strategier — Git-boken av Marcus Ackre Medina"
+description: "GitHub Flow är Git Flows enkla motsats — en permanent branch (main) och korta, kortlivade feature branches. Ingen develop, ingen release/, ingen hotfix/…"
 parent: Branching-strategier
 nav_order: 20
 ---

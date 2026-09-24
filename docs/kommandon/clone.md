@@ -1,6 +1,6 @@
 ---
 title: git clone
-description: "git clone i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Kopiera ett repo till din dator — med hela historiken."
 parent: Kommandon
 nav_order: 80
 ---

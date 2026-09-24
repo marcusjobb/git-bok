@@ -1,6 +1,6 @@
 ---
 title: Committade på fel branch
-description: "Committade på fel branch i Scenarios — Git-boken av Marcus Ackre Medina"
+description: "Det händer alla. Du jobbar intensivt, glömmer att byta branch, och committar direkt på main. Eller på fel feature-branch. Ingen fara — det är fixbart."
 parent: Scenarios
 nav_order: 10
 ---

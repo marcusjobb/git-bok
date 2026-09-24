@@ -1,6 +1,6 @@
 ---
 title: git pull
-description: "git pull i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Hämta och integrera ändringar från remote i ett steg."
 parent: Kommandon
 nav_order: 95
 ---

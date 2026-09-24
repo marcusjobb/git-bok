@@ -1,6 +1,6 @@
 ---
 title: git tag
-description: "git tag i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Sätt ett namn på en specifik commit — vanligtvis för att markera en release."
 parent: Kommandon
 nav_order: 155
 ---

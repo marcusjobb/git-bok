@@ -1,6 +1,6 @@
 ---
 title: git remote
-description: "git remote i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Hantera kopplingar till fjärrrepon. -v (verbose) visar URL:erna. Utan -v ser du bara namnen."
 parent: Kommandon
 nav_order: 85
 ---

@@ -1,6 +1,6 @@
 ---
 title: git init
-description: "git init i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Förvandla en vanlig mapp till ett Git-repo."
 parent: Kommandon
 nav_order: 75
 ---

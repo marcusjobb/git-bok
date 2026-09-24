@@ -1,6 +1,6 @@
 ---
 title: git blame
-description: "git blame i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Se vem som senast ändrade varje rad i en fil — och i vilken commit."
 parent: Kommandon
 nav_order: 160
 ---

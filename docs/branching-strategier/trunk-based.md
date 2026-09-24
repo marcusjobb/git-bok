@@ -1,6 +1,6 @@
 ---
 title: Trunk-based development
-description: "Trunk-based development i Branching-strategier — Git-boken av Marcus Ackre Medina"
+description: "Trunk-based development går längre än GitHub Flow: så gott som alla committar direkt till huvudgrenen (trunk/main), i väldigt små steg, flera gånger om…"
 parent: Branching-strategier
 nav_order: 30
 ---

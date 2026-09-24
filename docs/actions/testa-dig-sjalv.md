@@ -1,6 +1,6 @@
 ---
 title: Testa dig själv
-description: "Testa dig själv i GitHub Actions — Git-boken av Marcus Ackre Medina"
+description: "Du behöver ett riktigt GitHub-repo för det här — det går inte att simulera lokalt. Skapa ett testmiljö-repo på GitHub om du inte redan har ett."
 parent: GitHub Actions
 nav_order: 999
 ---

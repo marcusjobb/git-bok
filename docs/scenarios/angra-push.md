@@ -1,6 +1,6 @@
 ---
 title: Ångra en push
-description: "Ångra en push i Scenarios — Git-boken av Marcus Ackre Medina"
+description: "Du pushade och insåg direkt efteråt att något var fel. Kanske fel branch, kanske halvfärdig kod, kanske ett commit-meddelande som inte borde ha gått ut."
 parent: Scenarios
 nav_order: 20
 ---

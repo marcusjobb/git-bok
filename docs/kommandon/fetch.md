@@ -1,6 +1,6 @@
 ---
 title: git fetch
-description: "git fetch i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Hämta ändringar från remote — utan att röra din lokala kod."
 parent: Kommandon
 nav_order: 90
 ---

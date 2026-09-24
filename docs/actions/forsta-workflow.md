@@ -1,6 +1,6 @@
 ---
 title: Första workflow
-description: "Första workflow i GitHub Actions — Git-boken av Marcus Ackre Medina"
+description: "En minimal workflow som körs varje gång du pushar — och berättar om något gick fel."
 parent: GitHub Actions
 nav_order: 20
 ---

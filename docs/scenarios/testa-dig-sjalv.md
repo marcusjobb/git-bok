@@ -1,6 +1,6 @@
 ---
 title: Testa dig själv
-description: "Testa dig själv i Scenarios — Git-boken av Marcus Ackre Medina"
+description: "Det enda sättet att lära sig hantera kaos är att öva i kontrollerat kaos. Allt det här går att återskapa i ett testmiljö-repo."
 parent: Scenarios
 nav_order: 999
 ---

@@ -1,6 +1,6 @@
 ---
 title: Resurser
-description: "Resurser — Git-boken av Marcus Ackre Medina"
+description: "Bra ställen att fortsätta lära sig, ladda ner verktyg och hitta plattformar att jobba på."
 nav_order: 90
 ---
 

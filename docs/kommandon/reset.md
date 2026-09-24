@@ -1,6 +1,6 @@
 ---
 title: git reset
-description: "git reset i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Ångra saker. Det här kommandot har tre lägen med väldigt olika konsekvenser — läs innan du kör."
 parent: Kommandon
 nav_order: 130
 ---

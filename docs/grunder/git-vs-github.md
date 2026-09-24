@@ -1,6 +1,6 @@
 ---
 title: Git ≠ GitHub
-description: "Git ≠ GitHub i Grunder — Git-boken av Marcus Ackre Medina"
+description: "Det här är förmodligen den vanligaste förvirringen bland nybörjare — och den är helt förståelig, eftersom namnen är så lika. Men de är två helt olika…"
 parent: Grunder
 nav_order: 5
 ---

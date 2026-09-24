@@ -1,6 +1,6 @@
 ---
 title: Konflikter
-description: "Konflikter — Git-boken av Marcus Ackre Medina"
+description: "En merge-konflikt uppstår när Git inte kan slå ihop två versioner av samma fil automatiskt. Det ser skrämmande ut första gången — men det är inte farligt…"
 nav_order: 20
 has_children: true
 ---

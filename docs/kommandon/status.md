@@ -1,6 +1,6 @@
 ---
 title: git status
-description: "git status i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Kolla läget. Kör det här innan du gör något annat."
 parent: Kommandon
 nav_order: 10
 ---

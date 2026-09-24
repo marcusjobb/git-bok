@@ -1,6 +1,6 @@
 ---
 title: GitHub Actions
-description: "GitHub Actions — Git-boken av Marcus Ackre Medina"
+description: "Du pushar kod. En minut senare vet du om den kompilerar, om testerna går igenom, och om kodkvaliteten håller — utan att du gjort något."
 nav_order: 50
 has_children: true
 ---

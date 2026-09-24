@@ -1,6 +1,6 @@
 ---
 title: Scenarios
-description: "Scenarios — Git-boken av Marcus Ackre Medina"
+description: "Det är en sak att lära sig kommandon. Det är en annan att sitta med en trasig branch klockan 14:47 och behöva lösa det innan standup."
 nav_order: 40
 has_children: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: git cherry-pick
-description: "git cherry-pick i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Plocka in en specifik commit från en annan branch — utan att mergea hela branchen."
 parent: Kommandon
 nav_order: 145
 ---

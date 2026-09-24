@@ -1,6 +1,6 @@
 ---
 title: Grunder
-description: "Grunder — Git-boken av Marcus Ackre Medina"
+description: "Git är ett versionshanteringssystem — en tidsmaskin för din kod. Det håller koll på varje ändring du gör, så du alltid kan gå tillbaka och se hur ett…"
 nav_order: 10
 has_children: true
 ---

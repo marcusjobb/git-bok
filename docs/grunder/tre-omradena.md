@@ -1,6 +1,6 @@
 ---
 title: De tre områdena
-description: "De tre områdena i Grunder — Git-boken av Marcus Ackre Medina"
+description: "Tre begrepp förklarar hela Git-flödet: GitHub är ett fjärrrepository — en kopia av historiken som ligger online. Du synkar dit med git push (ladda upp)…"
 parent: Grunder
 nav_order: 10
 ---

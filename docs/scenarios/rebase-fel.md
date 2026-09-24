@@ -1,6 +1,6 @@
 ---
 title: Rebase gick fel
-description: "Rebase gick fel i Scenarios — Git-boken av Marcus Ackre Medina"
+description: "Rebase är kraftfullt. Det är också det kommando som flest personer stör till på ett sätt som känns oöverskådligt."
 parent: Scenarios
 nav_order: 50
 ---

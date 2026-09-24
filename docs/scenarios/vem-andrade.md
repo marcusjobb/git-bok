@@ -1,6 +1,6 @@
 ---
 title: Vem ändrade vad och när
-description: "Vem ändrade vad och när i Scenarios — Git-boken av Marcus Ackre Medina"
+description: "Något är trasigt. Du vet inte sedan när, och du vet inte vem som rörde det. Det här är detektivarbete — och Git har verktygen."
 parent: Scenarios
 nav_order: 60
 ---

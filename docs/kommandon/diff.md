@@ -1,6 +1,6 @@
 ---
 title: git diff
-description: "git diff i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Visa exakt vilka rader som ändrats — innan du committar, eller mellan commits."
 parent: Kommandon
 nav_order: 70
 ---

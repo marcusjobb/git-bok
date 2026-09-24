@@ -1,6 +1,6 @@
 ---
 title: git stash
-description: "git stash i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Du håller på med en feature. Halvvägs in ringer chefen och vill att du fixar en akut bugg på main — nu. Koden är inte klar, du kan inte committa…"
 parent: Kommandon
 nav_order: 110
 ---

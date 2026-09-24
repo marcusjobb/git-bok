@@ -1,6 +1,6 @@
 ---
 title: Merge-konflikt
-description: "Merge-konflikt i Konflikter — Git-boken av Marcus Ackre Medina"
+description: "En merge-konflikt uppstår när Git inte kan slå ihop två versioner av samma fil automatiskt. Det händer när du och någon annan (eller du på två ställen)…"
 parent: Konflikter
 nav_order: 10
 ---

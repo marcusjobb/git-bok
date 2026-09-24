@@ -1,6 +1,6 @@
 ---
 title: git log
-description: "git log i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Bläddra i projektets historik. git log i sin grundform spottar ut alla commits med hash, författare, datum och meddelande — troligtvis mer än du behöver…"
 parent: Kommandon
 nav_order: 60
 ---

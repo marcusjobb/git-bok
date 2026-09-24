@@ -1,6 +1,6 @@
 ---
 title: Råkade commita secrets
-description: "Råkade commita secrets i Scenarios — Git-boken av Marcus Ackre Medina"
+description: "Du har precis committat — och insett att appsettings.json innehöll ett riktigt lösenord. Eller en API-nyckel. Eller en connectionstring med credentials i…"
 parent: Scenarios
 nav_order: 30
 ---

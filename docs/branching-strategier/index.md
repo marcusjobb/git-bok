@@ -1,6 +1,6 @@
 ---
 title: Branching-strategier
-description: "Branching-strategier — Git-boken av Marcus Ackre Medina"
+description: "Att branch:a är enkelt — git checkout -b feature/login. Svårare är att komma överens i teamet om när en branch skapas, hur länge den lever, och hur den…"
 nav_order: 30
 has_children: true
 ---

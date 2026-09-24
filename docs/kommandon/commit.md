@@ -1,6 +1,6 @@
 ---
 title: git commit
-description: "git commit i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Spara en ögonblicksbild av allt som är stagat. Det här är det permanenta steget — en commit är svår att ta bort utan att det märks."
 parent: Kommandon
 nav_order: 30
 ---

@@ -1,6 +1,6 @@
 ---
 title: Licens
-description: "Licens — Git-boken av Marcus Ackre Medina"
+description: "Du får fritt: © Marcus Ackre Medina via Nion Education Publicerad under Creative Commons Erkännande-Ickekommersiell 4.0 (CC BY-NC 4.0)"
 nav_order: 999
 ---
 # Licens

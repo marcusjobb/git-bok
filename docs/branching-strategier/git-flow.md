@@ -1,6 +1,6 @@
 ---
 title: Git Flow
-description: "Git Flow i Branching-strategier — Git-boken av Marcus Ackre Medina"
+description: "Git Flow (myntad av Vincent Driessen 2010) är den mest strukturerade branching-strategin — den definierar fem olika typer av branches, var och en med ett…"
 parent: Branching-strategier
 nav_order: 10
 ---

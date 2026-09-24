@@ -1,6 +1,6 @@
 ---
 title: git bisect
-description: "git bisect i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Hitta exakt vilken commit som introducerade en bugg — utan att manuellt testa hundra commits."
 parent: Kommandon
 nav_order: 170
 ---

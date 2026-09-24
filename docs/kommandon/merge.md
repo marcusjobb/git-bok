@@ -1,6 +1,6 @@
 ---
 title: git merge
-description: "git merge i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Slå ihop två branches. Du är på branchen som ska ta emot ändringarna och anger branchen som ska mergas in."
 parent: Kommandon
 nav_order: 120
 ---

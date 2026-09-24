@@ -1,6 +1,6 @@
 ---
 title: Kommandon
-description: "Kommandon — Git-boken av Marcus Ackre Medina"
+description: "En sida per kommando — syntax, flaggor, och konkreta exempel. Använd som referens när du vet ungefär vad du vill göra men inte minns exakt hur."
 nav_order: 20
 has_children: true
 ---

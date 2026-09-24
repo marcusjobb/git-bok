@@ -1,6 +1,6 @@
 ---
 title: git reflog
-description: "git reflog i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Den sista räddningsplankan. (Och nej, det har inget med 50 shades att göra.)"
 parent: Kommandon
 nav_order: 150
 ---

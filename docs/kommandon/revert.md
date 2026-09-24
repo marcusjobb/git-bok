@@ -1,6 +1,6 @@
 ---
 title: git revert
-description: "git revert i Kommandon — Git-boken av Marcus Ackre Medina"
+description: "Ångra en commit — men på ett säkert sätt som fungerar på delade branches."
 parent: Kommandon
 nav_order: 140
 ---
