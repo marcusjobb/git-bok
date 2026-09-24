@@ -1,0 +1,26 @@
+# Git — öppen referensbok av Marcus Ackre Medina
+
+> Ett uppslagsverk för Git-versionshantering, skrivet på svenska för YH-studerande och utvecklare.
+> Inte en kurs — en referens du öppnar när du kört fast eller glömt ett kommando.
+
+## Om boken
+
+Boken täcker Git från grunder till avancerade arbetsflöden och GitHub Actions.
+Målgrupp: programmeringsstuderande och juniora utvecklare.
+Licens: CC BY 4.0 — fri att använda och dela.
+Källa: https://github.com/marcusjobb/git-bok
+Publicerad: https://marcusjobb.github.io/git-bok/
+
+## Ämnen som täcks
+
+- Grunderna i Git — init, add, commit, status, log
+- Branching och merging — strategier och arbetsflöden
+- Samarbete på GitHub — pull requests, forks, issues
+- Avancerade kommandon — rebase, cherry-pick, bisect, reflog
+- GitHub Actions — CI/CD-pipelines för automatisering
+- Git-internals — hur objekt, index och refs fungerar under huven
+
+## Författare
+
+Marcus Ackre Medina — lärare i mjukvaruutveckling, NionIT / YRGO
+Kontakt: marcus.medina@nionit.com
