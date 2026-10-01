@@ -4,3 +4,6 @@ docs/.bundle/
 site/node_modules/
 site/dist/
 site/.astro/
+
+# Astro/npm
+node_modules/
